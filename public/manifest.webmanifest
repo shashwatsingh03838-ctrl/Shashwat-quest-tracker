@@ -1,6 +1,6 @@
 {
-  "name": "Quest Log",
-  "short_name": "Quest Log",
+  "name": "Shashwat's Quest Log",
+  "short_name": "Shashwat's Quest Log",
   "description": "A gamified daily quest tracker",
   "start_url": "/",
   "display": "standalone",
